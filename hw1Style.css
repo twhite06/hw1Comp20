@@ -1,0 +1,39 @@
+ ul {
+  font-family: monospace; 
+  color: #D8315B;
+  border-style: outset;
+  border-color: #3E92CC;
+  border-left-width: 10px;
+  border-right-width: 10px;
+  border-top-width: 10px;
+  border-bottom-width: 10px;
+  list-style-type: square;
+}
+
+ 
+ li {
+  display: inline;
+}
+
+nav {
+  margin-top: 30px;
+  list-style-type: square;
+  font-size: 30px;
+  text-align: center;
+}
+
+space {
+	padding-left: 100px;
+	padding-right: 230px;
+}
+
+p {
+  border-style: dotted;
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 10px 10px 10px 10px;
+  color: #FFFAFF;
+  font-family: verdana;
+  font-size: 20px;
+  text-align: left;
+}
